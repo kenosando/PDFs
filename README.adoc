@@ -3,4 +3,6 @@
 == What is it?
 Some PDFs I could not find anywhere else on the net
 
-link:Arkansas%20Department%20of%20Human%20Services%20-%20humanservices.pdf[Arkansas Department of Human Services,role=external,window=_blank]
+link:Arkansas%20Department%20of%20Human%20Services%20-%20humanservices.pdf[Arkansas Department of Human Services]
+
+image::https://picsum.photos/64/64[Beautiful]
